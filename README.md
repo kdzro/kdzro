@@ -1,10 +1,10 @@
-## Bem-vindo ao meu perfil!
+# Bem-vindo ao meu perfil!
 
-## Sobre mim
+## 👋 Sobre mim
 
 Me chamo Ernesto e tenho 21 anos. Atualmente estou no 5° semestre em Ciência da Computação.
 
-## Tecnologias
+## 💻 Tecnologias
 
 Atualmente estou estudando **Python**, **Django**, **Java** e **Docker**.
 
@@ -15,7 +15,7 @@ Atualmente estou estudando **Python**, **Django**, **Java** e **Docker**.
     <img align="center" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white">
 </div>
 
-## Estatísticas
+## 📈 Estatísticas
 
 <p align="center">
     <a href="https://github.com/kdzro">
@@ -29,7 +29,7 @@ Atualmente estou estudando **Python**, **Django**, **Java** e **Docker**.
     </a>
 </p>
 
-## Contatos
+## 📫 Contatos
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ernestoaf_)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ernestoeudes01@gmail.com)

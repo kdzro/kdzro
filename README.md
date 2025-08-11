@@ -3,12 +3,7 @@
 ### Sobre mim
 
 Me chamo Ernesto e tenho 21 anos. Atualmente estou no 5° semestre em Ciência da Computação.
-Estou estudando as seguintes tecnologias:
-
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-- ![Postgres](https://img.shields.io/badge/-black?style=for-the-badge&logo=postgresql&logoColor=white)
+Estou estudando Python, Django e outras tecnologias.
 
 ### Contatos
 
@@ -16,3 +11,7 @@ Estou estudando as seguintes tecnologias:
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ernestoeudes01@gmail.com)
 
 ### Estatísticas
+
+![githubstats](https://github-readme-stats.vercel.app/api?username=kdzro&show_icons=true&theme=rose_pine&count_private=true)
+
+![githublangs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdzro&layout=compact&langs_count=168&theme=rose_pine)
